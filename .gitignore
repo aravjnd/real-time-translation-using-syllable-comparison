@@ -1,0 +1,4 @@
+*.nix
+dist/
+.stack-work
+result
